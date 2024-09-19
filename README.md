@@ -1,2 +1,2 @@
 # About Me
-my name is Emma I program in C#, Python and Lua. 
+my name is Emma I program in C# and Python. 
